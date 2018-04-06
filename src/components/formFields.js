@@ -1,7 +1,6 @@
 export default [
-	{ label: "Survey Title", name: "title" },
-	{ label: "Subject Line", name: "subject" },
-	{ label: "Email Body", name: "body" },
-	{ label: "Recipient List", name: "recipients" }
-	//form field
+	{ label: "Name", name: "name" },
+	{ label: "Bike model", name: "model" },
+	{ label: "Issue", name: "Issue" },
+	{ label: "Recipient", name: "recipient" }
 ];
